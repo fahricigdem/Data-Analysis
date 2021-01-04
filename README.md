@@ -1,2 +1,3 @@
 # Data-Analysis
-Basic Steps 
+## Basic Steps 
+### Data Wrangling and Exploratory Data Analysis
